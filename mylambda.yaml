@@ -34,3 +34,6 @@ Resources:
       Description: Invoca una función durante la creación.
       TracingConfig:
         Mode: PassThrough
+      Tags:
+        - Key: yor_trace
+          Value: 263f1162-2df4-453f-ae78-7805b9ca2faf
